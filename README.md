@@ -1,2 +1,2 @@
 # calcMatriz
-Calculadora para realizar opeações básicas com matrizes. 
+Calculadora para realizar operações básicas com matrizes.
