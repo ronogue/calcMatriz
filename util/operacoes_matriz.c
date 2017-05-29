@@ -5,7 +5,7 @@
 
 Matriz * somarMatriz(Matriz * m1, Matriz * m2)
 {
-    if(m1->row != m2->row && m1->col != m2->col)
+    if(m1->row != m2->row || m1->col != m2->col)
     {
         return NULL;
     }
